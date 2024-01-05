@@ -1,0 +1,36 @@
+body{
+    background-image: url("hospital.jpeg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    position: static;
+}
+.card{
+    padding: 4vw;
+    position: relative;
+    top: 70px;
+    background-color: rgb(215, 239, 250);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 7px 21px 0 rgba(0,0,0,.7);
+    width:fit-content;
+}
+
+input{
+    margin: 1vw;
+}
+
+.btn{
+    background-color: aqua;
+    border-radius: 5px;
+    width:fit-content ;
+
+}
+.btn:hover{
+    background-color:aquamarine;
+    border-radius: 5px;
+    box-shadow: inset;
+    
+}

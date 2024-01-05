@@ -1,0 +1,58 @@
+.navbar{
+    background-color: rgb(227, 195, 156);
+}
+
+.navv{
+    background-color: bisque;
+}
+
+body{
+    background-color:rgb(213, 249, 249)
+}
+
+.mainc{
+    height: 150px;
+    padding: 5px;
+    position: relative;
+    top: 20px;
+    display:flex;
+    gap:13vw;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+}
+
+.mainc1{
+    background-image: url("navbar.jpg");
+    padding: 7px;
+    margin: 3vw;
+    font-size: large;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    color: rgb(18, 16, 12);
+    box-shadow: 0 7px 21px 0 rgba(0,0,0,7);
+    height: max-content;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(24, 18, 10);
+}
+
+.nav-link{
+    margin-right: 20px;
+}
+
+.navbar-brand{
+    margin-right: 7vw;
+}
+
+footer{
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    gap:20px;
+    background-color: azure;
+    height: 10vw;
+    padding: 8px;
+}
