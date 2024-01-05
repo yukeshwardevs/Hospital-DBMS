@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+    
+    justify-content: left;
+    margin: 30px;
+}
+main{
+    padding: 2vw;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
